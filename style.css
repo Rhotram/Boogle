@@ -1,0 +1,50 @@
+body {
+  margin: 0 auto;
+  background-image: url("gora.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.header {
+  text-align: center;
+  height: 150px;
+  width: 600px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+.header img {
+  width: 500px;
+  height: 150px;
+  margin-right: 100px;
+}
+
+
+.container {
+  text-align: center;
+  height: 500px;
+  width: 600px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 0 auto;
+}
+
+.container img {
+  width: 250px;
+  height: 250px;
+
+  margin-bottom: 5px;
+}
+
+input {
+  height:30px;
+  width: 300px;
+  font-size: 18px;
+  font-style: oblique;
+  margin-bottom: 20px;
+}
